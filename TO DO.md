@@ -1,2 +1,5 @@
 - [ ] Undertow - как более производительная замена Tomcat
 - [ ] Алгоритм Бойера — Мура - поиск подстроки в строке
+- [ ] A* (A-star) search alg - поиск пути в графе
+- [ ] алгоритм Дейкстра
+- [ ] [Advent Of Code 2022. Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12)
